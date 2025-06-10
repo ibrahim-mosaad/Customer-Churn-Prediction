@@ -13,7 +13,8 @@ The dataset is synthetic and includes:
 - `MonthlyCharge`: Monthly bill amount.
 - `CustomerServiceCalls`: Number of customer service calls.
 - `Churn`: Target variable (Yes/No).
-
+## Decision Tree Visualization
+![Decision Tree](decision_tree_visualization.png)
 ## How to Run
 1. Clone this repository.
 2. Install the required libraries:
